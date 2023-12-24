@@ -2,13 +2,13 @@
 
 Lily is a small open source company focused on creating cheap and easy to recreate IoT projects. Our goal is to make IoT technology accessible to everyone, regardless of technical expertise or budget.
 
-## Our Projects
+## Our Projects Experiment
 
-- Project 1: Description and link to documentation
+- Project 1: [Distribution system](https://github.com/lily-open-source/ESP8266-Sensor-Data-Distributed-System)
 
-- Project 2: Description and link to documentation
+- Project 2: [wirless serial controll](https://github.com/lily-open-source/esp8266-wireless-demo)
 
-- Project 3: Description and link to documentation
+- Project 3: [data publisher](https://github.com/lily-open-source/ESP8266-IoT-Sensor-Data-Publisher)
 
 ## Getting Involved
 
