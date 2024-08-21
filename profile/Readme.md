@@ -1,17 +1,30 @@
-# Welcome to Lily
+---
 
-Lily is a small open source company focused on creating cheap and easy to recreate IoT projects. Our goal is to make IoT technology accessible to everyone, regardless of technical expertise or budget.
+# LILY OSP
 
-## Our Projects Experiment
+## Overview
 
-- Project 1: [Distribution system](https://github.com/lily-open-source/ESP8266-Sensor-Data-Distributed-System)
+Welcome to **LILY OSP**! This GitHub organization is dedicated to hosting and showcasing microcontroller-related projects and code from [1999AZZAR](https://github.com/1999AZZAR).
 
-- Project 2: [wirless serial controll](https://github.com/lily-open-source/esp8266-wireless-demo)
+## What We Offer
 
-- Project 3: [data publisher](https://github.com/lily-open-source/ESP8266-IoT-Sensor-Data-Publisher)
+- **Code Repositories**: Access a range of microcontroller projects and code.
+- **Demos**: Explore live demonstrations and interactive examples.
+- **Showcase**: Discover practical applications and innovative uses of microcontrollers.
+- **Collaboration**: Contribute to ongoing projects or start new ones.
 
-## Getting Involved
+## Getting Started
 
-We welcome contributions from the open source community. To get involved, please visit our GitHub repository at [lily.osp](https://github.com/lily-open-source) and check out our issues page for open bugs and feature requests.
+1. **Explore Repositories**: Browse our projects and check the documentation for setup instructions.
+2. **Try Demos**: View live demos to see our projects in action.
+3. **Contribute**: Follow our guidelines to contribute code, report issues, or provide feedback.
 
-Thank you for your interest in Lily and we look forward to working with you!
+## Contact
+
+For questions or feedback, open an issue in the relevant repository or visit [1999AZZAR’s GitHub](https://github.com/1999AZZAR).
+
+## License
+
+All projects are licensed under [Your License Type]. Refer to the LICENSE file in each repository for details.
+
+---
