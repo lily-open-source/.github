@@ -23,8 +23,14 @@ Welcome to **LILY OSP**! This GitHub organization is dedicated to hosting and sh
 
 For questions or feedback, open an issue in the relevant repository or visit [1999AZZAR’s GitHub](https://github.com/1999AZZAR).
 
-## License
+### Support
 
-All projects are licensed under [Your License Type]. Refer to the LICENSE file in each repository for details.
+You can support me by buying me a coffee if you like to.
+
+<div align="left">
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>
 
 ---
