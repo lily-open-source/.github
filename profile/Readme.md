@@ -25,6 +25,9 @@
 <h2 style="color: #2e8b57; font-size: 2.2em;">Contact</h2>
 <p style="font-size: 1.2em;">Have questions or want to share your brilliance? Open an issue in the relevant repository or pay a visit to <a href="https://github.com/1999AZZAR" style="color: #2e8b57; text-decoration: none; border-bottom: 1px dashed #2e8b57;">1999AZZAR’s GitHub</a>.</p>
 
+<h3 style="color: #2e8b57; font-size: 1.8em;">Lily's Program Writing Sets</h3>
+<p style="font-size: 1.2em;"><a href="https://github.com/lily-osp/.github/blob/main/profile/Lily's%20Program%20Writing%20Sets.md" tyle="color: #2e8b57; text-decoration: none; border-bottom: 1px dashed #2e8b57;">Lily's Program Writing Sets.</a></p>
+
 <h3 style="color: #2e8b57; font-size: 1.8em;">Support</h3>
 <p style="font-size: 1.2em;">If you’re feeling generous or just really like caffeine, consider buying me a coffee:</p>
 
